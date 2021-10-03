@@ -8,6 +8,7 @@ The purpose of this analysis is to take a deep dive into the big data to analyze
 
 The results below shows the relation between paid vs. unpaid 5 star reviews.   Please see below:
 
+- PAID Vine of reviews, 5 star reviews and % of reviews:
 
 ![image](https://user-images.githubusercontent.com/85530690/135768247-a243e3c1-ba03-4f3d-8570-d7e81b5a3f3d.png)
 
@@ -18,6 +19,8 @@ The results below shows the relation between paid vs. unpaid 5 star reviews.   P
 ![image](https://user-images.githubusercontent.com/85530690/135768279-ece62655-aaef-46ea-a691-a8b41ccdb1c6.png)
 
 
+- UN-PAID Vine of reviews, 5 star review and % of reviews:
+
 ![image](https://user-images.githubusercontent.com/85530690/135768285-55e7fbcb-fbb1-43e1-af20-be0634a8b229.png)
 
 
@@ -27,8 +30,5 @@ The results below shows the relation between paid vs. unpaid 5 star reviews.   P
 ![image](https://user-images.githubusercontent.com/85530690/135768317-95bd67d9-5d8f-40c7-91ec-ac0d060fe849.png)
 
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-The summary states whether or not there is bias, and the results support this statement 
-An additional analysis is recommended to support the statement 
+## Summary
+
