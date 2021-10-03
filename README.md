@@ -32,3 +32,4 @@ The results below shows the relation between paid vs. unpaid 5 star reviews.   P
 
 ## Summary
 
+The analysis reviewed paid vs. unpaid vine reviews and there were a total of 1266 paid and 62028 unpaid reviews.   Within that number of reviews, 432 were paid 5 star and 29982 were unpaid 5 starts.  Overall, the percentage of paid reviews is 34% and unpaid reviews 48%.  The data shows that there is no unfair biases.   Some additional to further test this conclusion would be to continue to dive deeper into the other rating breakdowns to see within this category where the 5 star and under rank.
